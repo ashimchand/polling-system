@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Polling.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5db227ca5e244bca24450de973b66ab63503e605")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ee6add8bdb0c8527496f244b058f8256d17b8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Polling.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Polling.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

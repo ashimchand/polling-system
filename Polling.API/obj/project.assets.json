@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Polling\\Polling.API\\Polling.API.csproj",
+      "projectUniqueName": "D:\\polling-system\\Polling.API\\Polling.API.csproj",
       "projectName": "Polling.API",
-      "projectPath": "D:\\Polling\\Polling.API\\Polling.API.csproj",
+      "projectPath": "D:\\polling-system\\Polling.API\\Polling.API.csproj",
       "packagesPath": "C:\\Users\\ashim\\.nuget\\packages\\",
-      "outputPath": "D:\\Polling\\Polling.API\\obj\\",
+      "outputPath": "D:\\polling-system\\Polling.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
