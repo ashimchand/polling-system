@@ -1,12 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Polling\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\polling-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE83F932-C9DF-49FB-8082-48EA6B22BD4B}|Polling.API\\Polling.API.csproj|d:\\polling-system\\polling.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE83F932-C9DF-49FB-8082-48EA6B22BD4B}|Polling.API\\Polling.API.csproj|solutionrelative:polling.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\polling-system\\Polling.Repository\\Migrations\\20250111232305_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Polling.Repository\\Migrations\\20250111232305_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA924B4-305D-4099-87FB-684757737D9F}|Polling.Domain\\Polling.Domain.csproj|d:\\polling-system\\polling.domain\\model\\votingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA924B4-305D-4099-87FB-684757737D9F}|Polling.Domain\\Polling.Domain.csproj|solutionrelative:polling.domain\\model\\votingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE83F932-C9DF-49FB-8082-48EA6B22BD4B}|Polling.API\\Polling.API.csproj|d:\\polling-system\\polling.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE83F932-C9DF-49FB-8082-48EA6B22BD4B}|Polling.API\\Polling.API.csproj|solutionrelative:polling.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC11ED-F820-4934-A352-5C6D5AFBF67B}|Polling.Repository\\Polling.Repository.csproj|d:\\polling-system\\polling.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FC11ED-F820-4934-A352-5C6D5AFBF67B}|Polling.Repository\\Polling.Repository.csproj|solutionrelative:polling.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA924B4-305D-4099-87FB-684757737D9F}|Polling.Domain\\Polling.Domain.csproj|d:\\polling-system\\polling.domain\\model\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA924B4-305D-4099-87FB-684757737D9F}|Polling.Domain\\Polling.Domain.csproj|solutionrelative:polling.domain\\model\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250111232305_InitialMigration.cs",
+              "DocumentMoniker": "D:\\polling-system\\Polling.Repository\\Migrations\\20250111232305_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Polling.Repository\\Migrations\\20250111232305_InitialMigration.cs",
+              "ToolTip": "D:\\polling-system\\Polling.Repository\\Migrations\\20250111232305_InitialMigration.cs",
+              "RelativeToolTip": "Polling.Repository\\Migrations\\20250111232305_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:23:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\polling-system\\Polling.API\\Program.cs",
+              "RelativeDocumentMoniker": "Polling.API\\Program.cs",
+              "ToolTip": "D:\\polling-system\\Polling.API\\Program.cs",
+              "RelativeToolTip": "Polling.API\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:44:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\polling-system\\Polling.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Polling.API\\appsettings.json",
+              "ToolTip": "D:\\polling-system\\Polling.API\\appsettings.json",
+              "RelativeToolTip": "Polling.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T20:40:24.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotingDetail.cs",
+              "DocumentMoniker": "D:\\polling-system\\Polling.Domain\\Model\\VotingDetail.cs",
+              "RelativeDocumentMoniker": "Polling.Domain\\Model\\VotingDetail.cs",
+              "ToolTip": "D:\\polling-system\\Polling.Domain\\Model\\VotingDetail.cs",
+              "RelativeToolTip": "Polling.Domain\\Model\\VotingDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:28:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "D:\\polling-system\\Polling.Domain\\Model\\Voting.cs",
+              "RelativeDocumentMoniker": "Polling.Domain\\Model\\Voting.cs",
+              "ToolTip": "D:\\polling-system\\Polling.Domain\\Model\\Voting.cs",
+              "RelativeToolTip": "Polling.Domain\\Model\\Voting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:20:14.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\polling-system\\Polling.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Polling.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\polling-system\\Polling.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Polling.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:13:10.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
