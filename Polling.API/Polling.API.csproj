@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Polling.Repository\Polling.Repository.csproj" />
+    <ProjectReference Include="..\Polling.Service\Polling.Service.csproj" />
   </ItemGroup>
 
 </Project>

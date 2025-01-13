@@ -9,6 +9,6 @@ namespace Polling.Domain.Model
 
         public string Description { get; set; }
 
-        ICollection<VotingDetail> VotingDetail { get; set; }
+        public ICollection<VotingDetail> VotingDetail { get; set; }
     }
 }

@@ -1720,6 +1720,20 @@
         "runtime": {
           "bin/placeholder/Polling.Repository.dll": {}
         }
+      },
+      "Polling.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Polling.Domain": "1.0.0",
+          "Polling.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Polling.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Polling.Service.dll": {}
+        }
       }
     }
   },
@@ -5194,6 +5208,11 @@
       "type": "project",
       "path": "../Polling.Repository/Polling.Repository.csproj",
       "msbuildProject": "../Polling.Repository/Polling.Repository.csproj"
+    },
+    "Polling.Service/1.0.0": {
+      "type": "project",
+      "path": "../Polling.Service/Polling.Service.csproj",
+      "msbuildProject": "../Polling.Service/Polling.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5201,6 +5220,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
       "Polling.Repository >= 1.0.0",
+      "Polling.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -5239,6 +5259,9 @@
           "projectReferences": {
             "D:\\polling-system\\Polling.Repository\\Polling.Repository.csproj": {
               "projectPath": "D:\\polling-system\\Polling.Repository\\Polling.Repository.csproj"
+            },
+            "D:\\polling-system\\Polling.Service\\Polling.Service.csproj": {
+              "projectPath": "D:\\polling-system\\Polling.Service\\Polling.Service.csproj"
             }
           }
         }

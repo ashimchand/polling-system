@@ -4,8 +4,9 @@ namespace Polling.Domain
 {
     public class BaseModel : RootModel
     {
-        [Required]
-        public Guid CreatedBy { get; set; }
+        //Need to make this required after user table
+        //[Required]
+        public Guid? CreatedBy { get; set; }
 
         [Required]
         [DataType(DataType.DateTime)]
